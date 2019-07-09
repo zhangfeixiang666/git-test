@@ -11,5 +11,11 @@ public class FirstClass {
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("hello");
+
+	}
+	public static void  fori(){
+		for (int i = 0; i <100 ; i++) {
+			System.out.println("66666666");
+		}
 	}
 }
