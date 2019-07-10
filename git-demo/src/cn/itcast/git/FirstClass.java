@@ -17,6 +17,7 @@ public class FirstClass {
 		for (int i = 0; i <100 ; i++) {
 			System.out.println("66666666");
 			System.out.println("nihaoya");
+			System.out.println("i = " + i);
 		}
 	}
 }
